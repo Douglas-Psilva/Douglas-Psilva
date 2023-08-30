@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Douglas+Henrique!;" />
 </h1>
 
-<h3 align="center">Desenvolvedor Full-Stack!</h3>
+<h3 align="center">Desenvolvedor Front-End!</h3>
 
 <br/>
 
@@ -11,7 +11,7 @@
  
  🔭 Em busca da primeira vaga na área!
  
- 🌱 Atualmente estudando ADS e praticando tecnologias Full-Stack
+ 🌱 Atualmente estudando ADS e praticando tecnologias inicialmente com maior foco em Front-end mas futuramente desejo ser Full Stack
  
  </div>
  
